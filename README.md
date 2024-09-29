@@ -28,7 +28,7 @@ Este projeto utiliza um pipeline de ETL em Python para coletar dados de usuário
 
 1. **Clone o repositório**:
    ```
-   git clone https://github.com/SeuUsuario/SeuRepositorio.git
+   git clone https://github.com/marcos-xavier21/IA_Generativa.git
    ```
 2. **Instale as dependências**:
    ```
